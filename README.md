@@ -1,7 +1,7 @@
 # NexoDev Studio
 
 **Diseño web y Link in Bio premium**  
-Desde Pasto, Nariño – Colombia 🇨🇴
+
 
 Mi estudio personal de diseño web. Creo páginas modernas y profesionales para creadores de contenido, influencers y negocios locales.
 
