@@ -25,5 +25,4 @@ Mi estudio personal de diseño web. Creo páginas modernas y profesionales para 
 ---
 
 Hecho con código desde Pasto, Colombia  
-© 2026 NexoDev Studio
-NexoDev Studio - Diseño web y Link in Bio personalizadas • Pasto, Colombia
+© 2026 NexoDev Studio - Diseño web y Link in Bio personalizadas • Pasto, Colombia
